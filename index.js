@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const axios = require("axios");
+const axios = require("./.gitignore/node_modules/axios");
 const fs = require('fs');
 const path = require('path');
 async function main(){
